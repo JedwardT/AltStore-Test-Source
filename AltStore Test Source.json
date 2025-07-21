@@ -4,6 +4,7 @@
   "description": "Welcome to JedwardT’s test source! Here you might find an app, maybe 2 at times.",
   "iconURL": "https://i.imgur.com/Fk98sWJ.png",
   "website": "https://github.com/JedwardT/AltStore-Test-Source",
+  "patreonURL": "",
   "tintColor": "#56e2dd",
   "featuredApps": [],
   "apps": [
@@ -18,7 +19,17 @@
       "tintColor": "#3c79a9",
       "category": "other",
       "screenshots": [],
-      "versions": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/yoshisuga/MAME4iOS/releases/download/2022.5/MAME4iOS-2022.5-250.ipa",
+          "size": 107700000,
+          "version": "2022.5",
+          "buildVersion": null,
+          "date": "2025-07-21T14:32:00+01:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
       "appPermissions": {
         "entitlements": [],
         "privacy": {
