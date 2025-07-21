@@ -4,27 +4,28 @@
   "description": "Welcome to JedwardT’s test source! Here you might find an app, maybe 2 at times.",
   "iconURL": "https://i.imgur.com/Fk98sWJ.png",
   "website": "https://github.com/JedwardT/AltStore-Test-Source",
+  "patreonURL": "https://patreon.com/altstudio",
   "tintColor": "#56e2dd",
   "featuredApps": [],
   "apps": [
     {
-      "name": "MAME4iOS",
-      "bundleIdentifier": "com.example.mame4ios",
+      "name": "MeloNX",
+      "bundleIdentifier": "com.stossy11.MeloNX",
       "marketplaceID": "",
       "developerName": "Example Developer",
       "subtitle": "An awesome app.",
       "localizedDescription": "This is an awesome app only available on AltStore.",
-      "iconURL": "https://i.imgur.com/ewwHRtV.png",
-      "tintColor": "#3c79a9",
+      "iconURL": "https://i.imgur.com/ir9UodT.png",
+      "tintColor": "#6a4cc7",
       "category": "other",
       "screenshots": [],
       "versions": [
         {
-          "downloadURL": "https://github.com/yoshisuga/MAME4iOS/releases/download/2022.5/MAME4iOS-2022.5-250.ipa",
-          "size": 107700000,
-          "version": "2022.5",
-          "buildVersion": "1",
-          "date": "2025-07-21T14:32:00+01:00",
+          "downloadURL": "https://git.ryujinx.app/melonx/emu/-/package_files/591/download",
+          "size": 61000000,
+          "version": "2.0.1",
+          "buildVersion": "",
+          "date": "2025-07-21T15:44:00+01:00",
           "localizedDescription": null,
           "minOSVersion": null
         }
@@ -32,7 +33,7 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {
-          "NSBluetoothAlwaysUsageDescription": "We need bluetooth for steam controllers"
+          "NSPhotoLibraryAddUsageDescription": "MeloNX needs access to your Photo Library in order to save images"
         }
       },
       "patreon": {}
