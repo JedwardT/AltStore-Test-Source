@@ -23,7 +23,7 @@
           "downloadURL": "https://github.com/yoshisuga/MAME4iOS/releases/download/2022.5/MAME4iOS-2022.5-250.ipa",
           "size": 107700000,
           "version": "2022.5",
-          "buildVersion": null,
+          "buildVersion": "1",
           "date": "2025-07-21T14:32:00+01:00",
           "localizedDescription": null,
           "minOSVersion": null
