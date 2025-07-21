@@ -1,0 +1,33 @@
+{
+  "name": "AltStore Test Source",
+  "subtitle": "A test source for apps that I want to test.",
+  "description": "Welcome to JedwardT’s test source! Here you might find an app, maybe 2 at times.",
+  "iconURL": "https://i.imgur.com/Fk98sWJ.png",
+  "website": "https://github.com/JedwardT/AltStore-Test-Source",
+  "patreonURL": "",
+  "tintColor": "#56e2dd",
+  "featuredApps": [],
+  "apps": [
+    {
+      "name": "MAME4iOS",
+      "bundleIdentifier": "com.example.mame4ios",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/ewwHRtV.png",
+      "tintColor": "#3c79a9",
+      "category": "other",
+      "screenshots": [],
+      "versions": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSBluetoothAlwaysUsageDescription": "We need bluetooth for steam controllers"
+        }
+      },
+      "patreon": {}
+    }
+  ],
+  "news": []
+}
