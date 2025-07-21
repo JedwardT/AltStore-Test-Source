@@ -9,23 +9,23 @@
   "featuredApps": [],
   "apps": [
     {
-      "name": "MeloNX",
-      "bundleIdentifier": "com.stossy11.MeloNX",
+      "name": "Folium-iOS",
+      "bundleIdentifier": "com.antique.Folium-iOS",
       "marketplaceID": "",
       "developerName": "Example Developer",
       "subtitle": "An awesome app.",
       "localizedDescription": "This is an awesome app only available on AltStore.",
-      "iconURL": "https://i.imgur.com/ir9UodT.png",
-      "tintColor": "#6a4cc7",
+      "iconURL": "https://i.imgur.com/4IAWMSX.png",
+      "tintColor": "#2cd444",
       "category": "other",
       "screenshots": [],
       "versions": [
         {
-          "downloadURL": "https://git.ryujinx.app/melonx/emu/-/package_files/591/download",
-          "size": 61000000,
-          "version": "2.0.1",
-          "buildVersion": "",
-          "date": "2025-07-21T15:44:00+01:00",
+          "downloadURL": "https://github.com/emuplace/folium.emuplace.app/releases/download/v1.20/folium-sideload-v1.20.ipa.zip",
+          "size": 24800000,
+          "version": "1.20",
+          "buildVersion": null,
+          "date": "2025-07-21T16:40:00+01:00",
           "localizedDescription": null,
           "minOSVersion": null
         }
@@ -33,11 +33,15 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {
-          "NSPhotoLibraryAddUsageDescription": "MeloNX needs access to your Photo Library in order to save images"
+          "NSAccentColorName": "AccentColor",
+          "NSBluetoothAlwaysUsageDescription": "Folium uses Bluetooth when connecting to controllers and gamepads",
+          "NSCameraUsageDescription": "Folium uses your devices camera for certain functionality within its cores",
+          "NSMicrophoneUsageDescription": "Folium uses your devices microphone for certain functionality within its cores",
+          "NSMotionUsageDescription": "Folium uses your devices motion data for some core functionality such as step count in Cytrus"
         }
       },
       "patreon": {}
     }
-  ],
+  ]
   "news": []
 }
